@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a7b5bb0.chunk.css",
+    "main.js": "/static/js/main.2a86466d.chunk.js",
+    "main.js.map": "/static/js/main.2a86466d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae453f9b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae453f9b.js.map",
+    "static/js/2.6a60dab5.chunk.js": "/static/js/2.6a60dab5.chunk.js",
+    "static/js/2.6a60dab5.chunk.js.map": "/static/js/2.6a60dab5.chunk.js.map",
+    "static/js/3.94a80b94.chunk.js": "/static/js/3.94a80b94.chunk.js",
+    "static/js/3.94a80b94.chunk.js.map": "/static/js/3.94a80b94.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7a7b5bb0.chunk.css.map": "/static/css/main.7a7b5bb0.chunk.css.map",
+    "static/js/2.6a60dab5.chunk.js.LICENSE.txt": "/static/js/2.6a60dab5.chunk.js.LICENSE.txt",
+    "static/media/Pacifico-Regular.93cd59ff.ttf": "/static/media/Pacifico-Regular.93cd59ff.ttf",
+    "static/media/Pacifico-Regular.c96e8d84.woff2": "/static/media/Pacifico-Regular.c96e8d84.woff2",
+    "static/media/Pacifico-Regular.e9e07cb1.woff": "/static/media/Pacifico-Regular.e9e07cb1.woff",
+    "static/media/Tourney-Light.2b423414.woff2": "/static/media/Tourney-Light.2b423414.woff2",
+    "static/media/Tourney-Light.732af337.woff": "/static/media/Tourney-Light.732af337.woff",
+    "static/media/Tourney-Light.7e45033d.ttf": "/static/media/Tourney-Light.7e45033d.ttf",
+    "static/media/VT323-Regular.2bd08e8b.woff": "/static/media/VT323-Regular.2bd08e8b.woff",
+    "static/media/VT323-Regular.a2f3e6c7.woff2": "/static/media/VT323-Regular.a2f3e6c7.woff2",
+    "static/media/VT323-Regular.bddd705e.ttf": "/static/media/VT323-Regular.bddd705e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae453f9b.js",
+    "static/js/2.6a60dab5.chunk.js",
+    "static/css/main.7a7b5bb0.chunk.css",
+    "static/js/main.2a86466d.chunk.js"
+  ]
+}
